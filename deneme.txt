@@ -1,1 +1,3 @@
 githupa proje gonderiyorum
+
+githuptan bilgisayarima proje gonderiyorum
